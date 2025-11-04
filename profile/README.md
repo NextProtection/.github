@@ -15,6 +15,7 @@ Nosso xodó atual é o **NXAC** – um anti-cheat feito de dev pra dev, pra mant
 | Projeto | O que é | Status |
 |---------|---------|--------|
 | **[NXAC](https://github.com/acnextmta/nxac-source)** | Anti-cheat pro MTA:SA que realmente funciona | 🚀 Beta |
+| **[NCC](https://discord.com/channels/1233225810400514099/1433848044469747803)** | Compilador desenvolvido pela NEXT | 💙 Online |
 | **Libs & Scripts** | Recursos que usamos/lançamos pra comunidade MTA:SA | 🔧 Em andamento |
 
 ## ⚡ Nosso estilo
